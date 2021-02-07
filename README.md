@@ -1,5 +1,9 @@
 # Frontend Mentor - Profile card component
 
+##You can see my solution here: [https://www.frontendmentor.io/solutions/profile-card-component-3JungNWJ2](https://www.frontendmentor.io/solutions/profile-card-component-3JungNWJ2")
+
+
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
